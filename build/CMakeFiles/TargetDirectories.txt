@@ -1,0 +1,3 @@
+/home/ming/Downloads/Cauchy_Constant/build/CMakeFiles/edit_cache.dir
+/home/ming/Downloads/Cauchy_Constant/build/CMakeFiles/rebuild_cache.dir
+/home/ming/Downloads/Cauchy_Constant/build/CMakeFiles/cauchy_example.dir
